@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\bin\Debug\net6.0\Problema 2.exe
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\bin\Debug\net6.0\Problema 2.deps.json
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\bin\Debug\net6.0\Problema 2.runtimeconfig.json
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\bin\Debug\net6.0\Problema 2.dll
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\bin\Debug\net6.0\Problema 2.pdb
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.AssemblyInfo.cs
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.dll
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\refint\Problema 2.dll
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.pdb
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\Problema 2.genruntimeconfig.cache
+C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 2\obj\Debug\net6.0\ref\Problema 2.dll

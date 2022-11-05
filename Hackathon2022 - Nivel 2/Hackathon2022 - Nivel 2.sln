@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon2022 - Nivel 2", "Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2.csproj", "{B45F2E12-94E0-447D-B5F2-74B9CA02206F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 2", "Problema 2\Problema 2.csproj", "{A1A0FF48-DF21-4F8A-8EDA-55F8AFB20293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 3", "Problema 3\Problema 3.csproj", "{E5859A94-ACD4-4935-BB7B-F6CF460B3150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B45F2E12-94E0-447D-B5F2-74B9CA02206F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45F2E12-94E0-447D-B5F2-74B9CA02206F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45F2E12-94E0-447D-B5F2-74B9CA02206F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A0FF48-DF21-4F8A-8EDA-55F8AFB20293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A0FF48-DF21-4F8A-8EDA-55F8AFB20293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A0FF48-DF21-4F8A-8EDA-55F8AFB20293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A0FF48-DF21-4F8A-8EDA-55F8AFB20293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5859A94-ACD4-4935-BB7B-F6CF460B3150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5859A94-ACD4-4935-BB7B-F6CF460B3150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5859A94-ACD4-4935-BB7B-F6CF460B3150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5859A94-ACD4-4935-BB7B-F6CF460B3150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
