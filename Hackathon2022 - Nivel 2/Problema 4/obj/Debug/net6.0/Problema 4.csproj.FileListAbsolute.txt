@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\bin\Debug\net6.0\Problema 4.exe
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\bin\Debug\net6.0\Problema 4.deps.json
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\bin\Debug\net6.0\Problema 4.runtimeconfig.json
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\bin\Debug\net6.0\Problema 4.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\bin\Debug\net6.0\Problema 4.pdb
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.AssemblyInfo.cs
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\refint\Problema 4.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.pdb
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\Problema 4.genruntimeconfig.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Problema 4\obj\Debug\net6.0\ref\Problema 4.dll

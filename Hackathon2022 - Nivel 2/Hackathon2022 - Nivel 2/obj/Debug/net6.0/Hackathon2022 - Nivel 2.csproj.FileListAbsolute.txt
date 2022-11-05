@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.exe
 C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.deps.json
 C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\
 C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.pdb
 C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.genruntimeconfig.cache
 C:\Users\ASUS TUF\Desktop\Hackathon 2022\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\ref\Hackathon2022 - Nivel 2.dll
+=======
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.exe
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.deps.json
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.runtimeconfig.json
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\bin\Debug\net6.0\Hackathon2022 - Nivel 2.pdb
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.AssemblyInfo.cs
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\refint\Hackathon2022 - Nivel 2.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.pdb
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\Hackathon2022 - Nivel 2.genruntimeconfig.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Hackathon-2022\Hackathon2022 - Nivel 2\Hackathon2022 - Nivel 2\obj\Debug\net6.0\ref\Hackathon2022 - Nivel 2.dll
+>>>>>>> b9fe7280b176a54cd7c0c5c06883f33763bf916f
