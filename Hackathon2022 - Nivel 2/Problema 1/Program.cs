@@ -48,5 +48,6 @@ while (confirmacion == "si")
     confirmacion = Console.ReadLine();
     confirmacion = confirmacion.ToLower();
     Console.Clear();
+    validacion = true;
 }
 
