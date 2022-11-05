@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2.csproj": {}
+    "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Problema 1\\Problema 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2.csproj": {
+    "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Problema 1\\Problema 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2.csproj",
-        "projectName": "Hackathon2022 - Nivel 2",
-        "projectPath": "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Problema 1\\Problema 1.csproj",
+        "projectName": "Problema 1",
+        "projectPath": "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Problema 1\\Problema 1.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Hackathon2022 - Nivel 2\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Hackathon-2022\\Hackathon2022 - Nivel 2\\Problema 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
