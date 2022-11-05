@@ -38,7 +38,7 @@ else
 }
 
 Console.WriteLine(" ");
-Console.WriteLine("Resultado: ");
+Console.WriteLine("Cadena Subsecuente: ");
 Console.WriteLine(resultado);
 Console.ReadKey();
 

@@ -13,18 +13,7 @@ int CaracteresMax = Convert.ToInt32(Console.ReadLine());
 
 int[] CantidadCaracteres = new int[array.Length];
 
-for (int i = 0; i < array.Length; i++)
-{
-    CantidadCaracteres[i] = array[i].Length;
-}
-
-foreach (var caracteres in CantidadCaracteres)
-{
-    if (caracteres < CaracteresMax)
-    {
-
-    }
-}
+Console.WriteLine();
 
 string[] ExtraerPalabras(string linea)
 {
@@ -44,9 +33,11 @@ int CalcularEspacios(int cantidadLetras)
     return cantidadLetras - CaracteresMax;
 }
 
-void JustificarLinea(string frase){
+string JustificarLinea(string frase){
     string[] palabras = ExtraerPalabras(frase);
     int totalCaracteres = 0;
+    int distribucionEspacios = 0;
+    string resultado = "";
 
     foreach (var palabra in palabras)
     {
@@ -55,10 +46,17 @@ void JustificarLinea(string frase){
 
     if (totalCaracteres < CaracteresMax)
     {
+        distribucionEspacios = CalcularEspacios(frase.Length)/palabras.Length;
         foreach (var palabra in palabras)
         {
-            return palabra + 
+            resultado = resultado + palabra;
+            for (int i = 0; i < distribucionEspacios; i++)
+            {
+                resultado += " ";
+            }
         }
     }
+
+    return resultado;
 
 }
